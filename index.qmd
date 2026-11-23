@@ -1,0 +1,180 @@
+---
+title: "Schwingungen"
+format: revealjs
+editor: source
+jupyter: python3
+---
+
+## Begrüßung
+
+- Aufstehen
+- Schreiben ins Heft
+- Tablets Face down
+
+## Intro
+
+- Schulaufgabe liegt hinter uns
+- Beginnen neues Thema
+- Rufen "Schritte Naturwissenschaftlichen Arbeitens" ins Gedächtnis
+- Überschrift schreiben
+
+## Punkte
+
+* Was ist der erste Schritt jeder Entdeckung? **Beobachtung**
+* Suchen eine Erklärung dafür = **Hypthese aufstellen**
+* **Experimentelles Testen der Hypothese**  
+  Dafür ändern wir Randbedingungen - Massen, Fallhöhen, Geschwindigkeiten, ...
+* Für Vorhersagen: **Mathematisches Formelwerk aufstellen**
+* Was fehlt noch: **Testen der Formeln**
+
+Diese Punkte sind keine Liste, die im Ablauf 
+geschrieben wird - eher geistiger Leitfaden
+
+# Überleitung
+
+## Beobachtung
+
+**Story aus dem Lokal**  
+
+**Welche Beobachtung habt ihr gemacht?**  
+
+*BEOBACHTEN MUSS NICHT OPTISCH SEIN*  
+
+Man hört einen Ton  
+
+## HEFT 1
+
+* Noch keine Überschrift
+
+* Erst Versuchbeschreibung
+
+* Was brauchen wir noch?
+
+* Bild
+
+## Hypothese
+
+**Warum erzeugt das Glas einen Ton?**  
+
+*=> Das Glas schwingt*
+
+(Verschiedene Betrachtungstiefen möglich - wir beginnen klein)  
+
+Damit haben wir unser Thema => Heft
+
+## HEFT 1
+
+Überschrift ergänzen
+
+Hinweis auf freien Platz
+
+Gleich kommt Tablet
+
+## FREIGABE TABLETS
+
+NICHT NICHT NICHT die Fragen sagen!!!!!
+
+*Mich würde an dieser Stelle allerdings eine Sache  
+interessieren - dafür machen wir eine anonyme digitale  
+Umfrage*  
+
+* Wechsel auf Airserver
+* Geht auf diese Seite
+* Warten auf komplett
+
+## Start der Umfrage
+
+Bei der nachfolgenden Frage  
+
+* Dein eigenes Wissen - nicht das der Nachbarin
+* Nehmt euch Zeit - keine Schnellschüsse - wirklich nachdenken
+* Frage freigeben und warten
+* Antworten abwarten
+
+=> Schließen
+
+## Auswerten
+
+Erklärung:  
+
+* Ich zeige jetzt in zufälliger Reihenfolge alle Antworten
+* Ziel ist eine Liste, was eine Schwingung ausmacht
+* Ihr macht euch Notizen
+  - Welche Punkte tauchen immer / oft auf?
+  - Bevorzugt - Was ist für euch ok?
+  - Was habt ihr in eurer Liste vergessen?
+
+## AUSWERTEN
+
+Langsam blättern 
+
+HINWEIS: KEIN HEFTEINTRAG
+
+* Hin Her => aufspalten in Periodisch und Umkehrpunkte
+* Ruhelage möglichst vermeiden
+
+------------- BREAK ------   
+Variante der Arbeitsweise 
+
+## Ruhelage
+
+* Weitere Technik in NW: Vereinfachen
+* Weinglas 3D-Schwingung mathematisch zu komplex
+* Idee für vergleichbares Experiment => Instrument
+* Vorschläge für Instrumente
+* Monocord klein
+
+=> Kritik
+
+## Kritik Monocord
+
+* Keine Mensur
+* Gut zu hören
+* Schlecht zu sehen
+* Auch Kamera schafft das noch nicht sauber
+* Stroboskop - falls zu schnell
+
+=> Expander
+
+## Monocord groß
+
+* Noch mehr vergröbert  
+* Hier sieht man die Schwingung besser  
+* Wenn man etwas wartet => Ruhelage  
+* Reibung  
+* Dämpfung
+
+=> Ruhelage
+=> HEFT KASTEN ERWEITERN
+
+## Kasten
+
+Wofür steht das A?
+
+* Auslenkung
+* Amplitude
+* Was beschreibt denn die Amplitude? 
+
+=> Liste ergänzen
+
+## LISTE
+
+* Welche ph. Größe beschreibt die Periodizität?
+* Die Amplitude haben wir schon
+* Hier kommt nächste Stunde noch ein Punkt dazu!!!
+
+=> NOCH NICHT Infra und Ultra einblenden!!!!
+
+## Infra
+
+* Ist euch beim letzten Monocord etwas aufgefallen?
+* Kein Ton - ist das dann noch ein Ersatz für das Weinglas?
+* Hören wir jede mechanische Schwingung?
+* Erzeugt das Monocord einen Ton oder nicht?
+
+=> TAFEL
+
+## Hörbarkeit
+
+* Nicht jede mech. Schwingung ist hörbar
+* Wie nennt man Schwingungen, die nicht hörbar sind?

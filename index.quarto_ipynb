@@ -1,0 +1,39 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Schwingungen\"\n",
+        "format: revealjs\n",
+        "editor: visual\n",
+        "jupyter: python3\n",
+        "---\n",
+        "\n",
+        "## Begrüßung\n",
+        "\n",
+        "- Aufstehen\n",
+        "- Schreiben ins Heft\n",
+        "- Tablets Face down\n",
+        "\n",
+        "## Intro\n",
+        "\n",
+        "- Schluaufgabe liegt hinter uns\n",
+        "- Beginnen neues Thema\n",
+        "- Rufen \"Schritte Naturwissenschaftlichen Arbeitens\" ins Gedächtnis"
+      ],
+      "id": "829005b5"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/home/linuxadmin/.local/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
